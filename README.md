@@ -26,16 +26,16 @@ As the company diversifies into aviation, safety becomes a critical concern, esp
 
 1. **Damage Frequency and Severity by Aircraft Model**  
    - Visualization of how many incidents resulted in Destroyed, Substantial, or Minor damage for each aircraft model.
-   ![Graph Description](images/Aircraft Damage Comparison by Make and Model.png)
+   ![Graph Description](images/Aircraft_Damage_Comparison_by_Make_and_Model.png)
 
 
 2. **Total Fatal Injuries vs Total Uninjured Passengers**  
    - Scatter plot showing the balance between fatalities and survivability across different aircraft models.
-   ![Graph Description](images/Fatalities vs Uninjured Passengers per Event copy.png)
+   ![Graph Description](images/Fatalities_vs_Uninjured_Passengers_per_Event.png)
 
 3. **Aircraft Safety Scores**  
    - Bar chart ranking aircraft models by overall calculated safety score, combining fatality rates, injury rates, and uninjured passenger counts.
-   ![Graph Description](images/Aviation-Risk-Analysis\Images\Top 10 Safest Aircraft Models.png)
+   ![Graph Description](images/Aviation-Risk-Analysis\Images\Top_10_Safest_Aircraft_Models.png)
 
 ## Conclusion
 
