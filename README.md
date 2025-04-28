@@ -49,7 +49,6 @@ Overall, this analysis provides a clear, evidence-based recommendation to priori
 
 ## Project Files
  
-[Aviation Risk Analysis Dashboard](https://public.tableau.com/app/profile/deborah.omondi/viz/AviationRiskAnalysis-Dashboard/Dashboard1?publish=yes)
+[Aviation Safety Analysis Dashboard](https://public.tableau.com/app/profile/deborah.omondi/viz/AviationRiskAnalysis-Dashboard/Dashboard1?publish=yes)
 
-[View Full Analysis as PDF](Aircraft_Safety_Analysis_ipynb.pdf)
-
+[View My Full Jupyter Notebook as a PDF](Aircraft_Safety_Analysis_ipynb.pdf)
