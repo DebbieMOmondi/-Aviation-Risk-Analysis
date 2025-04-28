@@ -46,3 +46,9 @@ Through careful analysis, three major findings were reached:
 - Older aircraft models such as the **McDonnell Douglas DC-10** series exhibited higher relative fatalities and lower overall safety scores, suggesting that significant investment in these models should be avoided.
 
 Overall, this analysis provides a clear, evidence-based recommendation to prioritize newer, proven aircraft models that enhance passenger safety and reduce operational risks for the company.
+
+## Interactive Dashboard
+
+Explore my interactive Tableau dashboard here:  
+[Aviation Risk Analysis Dashboard](https://public.tableau.com/app/profile/deborah.omondi/viz/AviationRiskAnalysis-Dashboard/Dashboard1?publish=yes)
+
