@@ -39,11 +39,11 @@ As the company diversifies into aviation, safety becomes a critical concern, esp
 
 ## Conclusion
 
-Through careful analysis, three major findings were reached:
+Through careful analysis, two major findings were reached:
 
 - The **Boeing 777** stands out as the safest aircraft across all evaluated metrics, showing extremely low fatality rates and high survivability.
 - The **Boeing 747-400** and **Boeing 767** also demonstrate strong performance, making them good secondary options for expanding the fleet safely.
-- Older aircraft models such as the **McDonnell Douglas DC-10** series exhibited higher relative fatalities and lower overall safety scores, suggesting that significant investment in these models should be avoided.
+
 
 Overall, this analysis provides a clear, evidence-based recommendation to prioritize newer, proven aircraft models that enhance passenger safety and reduce operational risks for the company.
 
@@ -52,3 +52,5 @@ Overall, this analysis provides a clear, evidence-based recommendation to priori
 [Aviation Safety Analysis Dashboard](https://public.tableau.com/app/profile/deborah.omondi/viz/AviationRiskAnalysis-Dashboard/Dashboard1?publish=yes)
 
 [View My Full Jupyter Notebook as a PDF](Aircraft_Safety_Analysis_ipynb.pdf)
+
+[View My Powerpoint Presentation](presentation.pdf)
